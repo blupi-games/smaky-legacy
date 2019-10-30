@@ -10,8 +10,8 @@ available here: http://infini.smaky.ch
 | MUR  | 1987 | CALM     |
 | PING | 1987 | CALM     |
 
-For more resources, look in the `doc/` directory of each game. You will find
-PNG images (sams as the `.IMAGE` files) and PDF files (same as the `.PAGE`
+For more resources, look at the `doc/` directory of each game. You will find
+PNG images (same as the `.IMAGE` files) and PDF files (same as the `.PAGE`
 files).
 
 ## BONG
