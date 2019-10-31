@@ -46,10 +46,10 @@ you invert both options, you will destroy your data.
 > Please, continue to read this article, it's not the best way...
 
 **It's not always the best idea** to just use `dd` because maybe the disk is
-damaged (and it's old, prone to mecanic, eletric or electronic failures). Then
-the best way will be to use [myrescue][1] instead of `dd`. This utility tries to
-read as much as possible and keep a map of damaged area in order to improve the
-rescue (re-rescue) and to be quick and more safe.
+damaged (and it's old, prone to mechanical, eletric or electronic failures).
+Then the best way will be to use [myrescue][1] instead of `dd`. This utility
+tries to read as much as possible and keep a map of damaged area in order to
+improve the rescue (re-rescue) and to be quick and more safe.
 
 **First**, read the manpage of [myrescue][1], the procedure is very important.
 You can install it via `apt-get install myrescue`.
