@@ -2,7 +2,7 @@
 
 Here you can find the source code of some very old Smaky games written by Daniel
 Roux in CALM. All games are playable with the Smaky Infini emulator available
-here: https://smaky.ch/le-smaky-infini-libre/
+here: https://www.smaky.ch/le-smaky-infini-libre/
 
 | Game | Year | Language |
 | ---- | ---- | -------- |
