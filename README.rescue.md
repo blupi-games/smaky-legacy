@@ -157,7 +157,7 @@ Yes, the [Smaky][8] uses only the carriage return like old Macintosh.
 
 [1]: http://myrescue.sourceforge.net
 [2]: https://en.wikipedia.org/wiki/Filesystem_in_Userspace
-[3]: https://infini.smaky.ch
+[3]: https://www.smaky.ch/le-smaky-infini-libre/
 [4]: https://www.winehq.org
 [5]: http://fosfat.schroetersa.ch
 [6]: https://tracker.debian.org/pkg/fosfat
