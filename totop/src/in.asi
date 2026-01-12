@@ -1,0 +1,1 @@
+;--------\\;  >;========/; ; in	; out	; mod		PUSHM.L	EXIT$:	POPM.L		TEST.W	D7		; retour EQ/NE	RET
