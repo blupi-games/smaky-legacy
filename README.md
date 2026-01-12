@@ -14,12 +14,12 @@ https://www.smaky.ch/le-smaky-infini-libre/
 | TOTO SE PROMÈNE | 1991 | CALM     | `totop`   |
 
 For more resources, look at the `doc/` directory of each game. You will find PNG
-images (sams as the `.IMAGE` and `.COLOR` files) and PDF files (same as the
+images (same as the `.IMAGE` and `.COLOR` files) and PDF files (same as the
 `.PAGE` files).
 
 The assembly files use an unusual charset. You can use the `smascii` tool
 provided by the [Fosfat project][1] in order to convert the files into
-iso-8859-1 charset.
+ISO-8859-1 charset.
 
 ## BONG
 
@@ -39,7 +39,7 @@ iso-8859-1 charset.
 
 # Other
 
-Read [README.rescue.md](README.rescue.md) for an HOWTO (backup, restore and read
+Read [README.rescue.md](README.rescue.md) for a HOWTO (backup, restore and read
 a Smaky hard or floppy disk).
 
 [1]: https://github.com/Skywalker13/Fosfat
