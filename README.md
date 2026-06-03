@@ -7,7 +7,7 @@ games are playable with the Smaky Infini emulator (only for Windows) available
 here: https://www.smaky.ch/le-smaky-infini-libre/
 
 For the FLIPPER game, you can try this online Smaky 6 emulator here:
-https://sch-lika.github.io/smemu6/
+https://sch-lika.github.io/smemu6/  
 or https://github.com/SMUG-2-0/Smaky-6/blob/master/Simulateur-JS/README.md
 
 | Game            | Year | Language       | Directory |
