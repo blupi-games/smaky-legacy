@@ -2,12 +2,16 @@
 
 Here you can find the binaries, the source codes and the assets of some very old
 Smaky games written by Daniel Roux in CALM (Common Assembly Language for
-Microprocessors). Everything is published under the GPLv3+ license. All games
-are playable with the Smaky Infini emulator (only for Windows) available here:
-https://www.smaky.ch/le-smaky-infini-libre/
+Microprocessors). Everything is published under the GPLv3+ license. AllM680002
+games are playable with the Smaky Infini emulator (only for Windows) available
+here: https://www.smaky.ch/le-smaky-infini-libre/
+
+For the FLIPPER game, you can try the Smaky 6 emulator here:
+https://sch-lika.github.io/smemu6/
 
 | Game            | Year | Language       | Directory |
 | --------------- | ---- | -------------- | --------- |
+| FLIPPER         | 198? | CALM / Z80     | `flipper` |
 | BONG            | 1987 | CALM / M680002 | `bong`    |
 | MUR             | 1987 | CALM / M680002 | `mur`     |
 | PING            | 1987 | CALM / M680002 | `ping`    |
@@ -20,6 +24,10 @@ images (same as the `.IMAGE` and `.COLOR` files) and PDF files (same as the
 The assembly files use an unusual charset. You can use the `smascii` tool
 provided by the [Fosfat project][1] in order to convert the files into
 ISO-8859-1 charset.
+
+## FLIPPER
+
+![FLIPPER](flipper/doc/flipper.png)
 
 ## BONG
 
