@@ -6,12 +6,12 @@ Microprocessors). Everything is published under the GPLv3+ license. All games
 are playable with the Smaky Infini emulator (only for Windows) available here:
 https://www.smaky.ch/le-smaky-infini-libre/
 
-| Game            | Year | Language | Directory |
-| --------------- | ---- | -------- | --------- |
-| BONG            | 1987 | CALM     | `bong`    |
-| MUR             | 1987 | CALM     | `mur`     |
-| PING            | 1987 | CALM     | `ping`    |
-| TOTO SE PROMÈNE | 1991 | CALM     | `totop`   |
+| Game            | Year | Language       | Directory |
+| --------------- | ---- | -------------- | --------- |
+| BONG            | 1987 | CALM / M680002 | `bong`    |
+| MUR             | 1987 | CALM / M680002 | `mur`     |
+| PING            | 1987 | CALM / M680002 | `ping`    |
+| TOTO SE PROMÈNE | 1991 | CALM / M680002 | `totop`   |
 
 For more resources, look at the `doc/` directory of each game. You will find PNG
 images (same as the `.IMAGE` and `.COLOR` files) and PDF files (same as the
