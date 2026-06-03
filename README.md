@@ -2,7 +2,7 @@
 
 Here you can find the binaries, the source codes and the assets of some very old
 Smaky games written by Daniel Roux in CALM (Common Assembly Language for
-Microprocessors). Everything is published under the GPLv3+ license. AllM680002
+Microprocessors). Everything is published under the GPLv3+ license. All M680002
 games are playable with the Smaky Infini emulator (only for Windows) available
 here: https://www.smaky.ch/le-smaky-infini-libre/
 
